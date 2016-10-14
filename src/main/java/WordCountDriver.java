@@ -14,7 +14,7 @@ import org.apache.hadoop.util.ToolRunner;
 import java.io.IOException;
 
 /**
- * Created by cloudwick on 10/14/16.
+ * Created by AshokKumarChoppadandi on 10/14/16.
  */
 public class WordCountDriver extends Configured implements Tool {
 

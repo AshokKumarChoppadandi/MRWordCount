@@ -5,7 +5,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 
 /**
- * Created by cloudwick on 10/14/16.
+ * Created by AshokKumarChoppadandi on 10/14/16.
  */
 public class WordCountReducer extends Reducer<Text, IntWritable, Text, IntWritable> {
     @Override

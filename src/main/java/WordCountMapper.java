@@ -6,7 +6,7 @@ import org.apache.hadoop.mapreduce.Mapper;
 import java.io.IOException;
 
 /**
- * Created by cloudwick on 10/14/16.
+ * Created by AshokKumarChoppadani on 10/14/16.
  */
 public class WordCountMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 
